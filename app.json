@@ -1,0 +1,8 @@
+{
+  "name": "Spring blog demo",
+  "description": "Sample app - Spring blog demo",
+  "image": "heroku/java",
+  "env": {
+        "BUILDPACK_URL": "heroku/java"
+    }
+}
