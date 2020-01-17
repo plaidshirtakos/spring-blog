@@ -1,6 +1,8 @@
 # Java Spring-Blog
 A simple blog Java example project made with Spring boot / Hibernate for Codeup students.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 - Implementing Materialize CSS Framework
 - Spring Boot
 - Hibernate ORM + JPA
